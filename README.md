@@ -86,11 +86,11 @@ To Visit App:
 
 **Home Page**
 
-* The home page carries a preview of the posts, if the user value (see app.js line 10) then clicking on the post will take you there, otherwise you will be directed to the login page.
+* The home page carries a preview of the posts, if the user value is equal to true (see app.js line 10) then clicking on a post card will direct you to the posts page, otherwise you will be directed to the login page.
 
 **Login Page**
 
-* the login page uses Passport.JS to allow the usage of google, facebook, and github to login.
+* The login page uses Passport.JS to allow the use of google, facebook, and github authentication to login.
 
 **Posts page**
 
@@ -98,7 +98,7 @@ To Visit App:
 
 **Dynamic Navbar**
 
-* The navbar components change depending on the user status (see screenshots hompe page logged in/out.)
+* The navbar components change depending on the user status (see screenshots hompe page logged in and home page logged out.)
 
 **Dynamic Logo**
 
@@ -110,7 +110,7 @@ To Visit App:
 
 **URL Routing**
 
-* To access all website pages look URL extensions in features.
+* To access all website pages see URL extensions in features.
 
 
 ## Project Status
