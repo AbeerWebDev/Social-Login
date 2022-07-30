@@ -41,6 +41,7 @@ To practice authentication, web design, and routing.
 * A Posts page => to access add: /Posts/1 or 2 or 3 (the three post pages are visible if user = true only; otherwise you will be directed to home.)
 * A dynamic logo button. 
 * A dynamic profile button.
+* A dynamic navbar.
 
 ## Screenshot
 Home Page - Logged In
