@@ -37,8 +37,8 @@ To practice authentication, web design, and routing.
 #### Note: To see all featured pages mentioned below go to: app.js/:10 and toggle the user variable between true and false.
 * React-routing.
 * A Home page.
-* A Login page => to access add: /login => (if user = true you'll see the home page otherwise you'll see the login page.)
-* A Posts page => to access add: /Posts/1 or 2 or 3 => (the three post pages are visible if user = true only; otherwise you will be directed to home.)
+* A Login page => to access add: /login (if user = true you'll see the home page otherwise you'll see the login page.)
+* A Posts page => to access add: /Posts/1 or 2 or 3 (the three post pages are visible if user = true only; otherwise you will be directed to home.)
 * A dynamic logo button. 
 * A dynamic profile button.
 
