@@ -60,7 +60,7 @@ Post Page - 2
 ![project screenshot](post-2.png)
 
 Post Page - 3
-![project screenshot](post-3.png)
+![project screenshot](post3.png)
 
 ## Installation and Setup Instructions
 
