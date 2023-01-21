@@ -123,5 +123,5 @@ Project is: Incomplete
 * Many thanks to LamaDev.
 
 ## Contact
-Created by Abeer Ahmed [LinkedIn profile](https://www.linkedin.com/in/abeerfrontend/) - feel free to contact me.
+Created by Abeer Ahmed [LinkedIn profile](https://www.linkedin.com/in/abeerdev/) - feel free to contact me.
 
